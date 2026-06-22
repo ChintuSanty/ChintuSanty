@@ -1,39 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0f3460,80:16213e,100:0f3460&height=220&section=header&text=Santy&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Frontend%20Architect%20%C2%B7%20Product%20Builder&descAlignY=62&descSize=20&descColor=7ec8e3" />
+<!-- Futuristic Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SANTY&fontSize=120&fontColor=00fff7&color=0:0a0a0a,50:0d1117,100:0a0a0a&stroke=00fff7&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%E2%80%A2%20Frontend%20Architect%20%E2%80%A2%20Product%20Builder&descAlignY=75&descSize=18&descColor=a0a0a0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Frontend+Architect;12%2B+years+building+digital+products;Conversational+AI+%7C+Databricks+%7C+Snowflake;Turning+ideas+into+intelligent+experiences" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-santy.in-00d4ff?style=for-the-badge&logoColor=white)](https://santy.in)
-[![Email](https://img.shields.io/badge/📧_Email-hello%40santy.in-0f3460?style=for-the-badge&logoColor=white)](mailto:hello@santy.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=ChintuSanty&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/ChintuSanty)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+AI+that+feels+human;%E2%9A%A1+12%2B+years+crafting+intelligent+systems;%F0%9F%94%A5+Databricks+%7C+Snowflake+%7C+React+%7C+Next.js;%F0%9F%9A%80+Turning+ideas+into+intelligent+experiences" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- Neon Social Badges -->
+<div align="center">
 
-> *"I don't just build UIs — I build intelligent systems that feel human."*
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00fff7?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=00fff7)](https://santy.in)
+[![Website](https://img.shields.io/badge/◈_SANTY.IN-00fff7?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=7928ca)](https://santy.in)
+[![Email](https://img.shields.io/badge/◈_HELLO@SANTY.IN-00fff7?style=for-the-badge&logoColor=0d1117&labelColor=0d1117&color=ff0080)](mailto:hello@santy.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=ChintuSanty&style=for-the-badge&color=00fff7&label=◈+VISITORS)](https://github.com/ChintuSanty)
 
-I'm a **Senior AI Engineer & Frontend Architect** with **12+ years** of experience spanning UI/UX design, frontend engineering, cloud architecture, and AI product development. I sit at the intersection of **beautiful interfaces** and **intelligent systems**.
-
-Currently obsessed with:
-- 🤖 **Conversational AI** — designing and engineering AI agents that actually work in production
-- ⚡ **Databricks + Snowflake AI** — building data-driven AI pipelines and intelligent workflows
-- 🎨 **UI Platform Engineering** — scalable design systems and component architectures
-- 🧱 **Frontend at Scale** — React, Next.js, TypeScript architectures used by real teams
-
-I also **mentor students** and build **product concepts** — because great engineering is nothing without vision.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## `> SYSTEM PROFILE`
 
-### 🤖 AI & Data Engineering
-<div align="center">
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  OPERATOR  : SANTY                                              │
+│  ROLE      : Senior AI Engineer & Frontend Architect            │
+│  EXP       : 12+ years                                         │
+│  STATUS    : ACTIVE — Building at the edge of UI & Intelligence │
+│  MISSION   : Turning ideas into intelligent experiences         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+> *"I don't just build UIs — I build intelligent systems that feel human."*
+>
+> Currently obsessed with:
+> - 🤖 **Conversational AI** — designing and engineering AI agents that actually work in production
+> - - ⚡ **Databricks + Snowflake AI** — building data-driven AI pipelines and intelligent workflows
+>   - - 🎨 **UI Platform Engineering** — scalable design systems and component architectures
+>     - - 🧱 **Frontend at Scale** — React, Next.js, TypeScript architectures used by real teams
+>      
+>       - ---
+>
+> ## `> TECH MATRIX`
+>
+> ### 🤖 AI & Data Engineering
+> <div align="center">
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -76,75 +90,75 @@ I also **mentor students** and build **product concepts** — because great engi
 
 ---
 
-## 🏗️ Featured Projects
+## `> FEATURED PROJECTS`
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| [**SantyCSS**](https://github.com/ChintuSanty/santyCSS) | 🎨 Utility CSS framework that reads like plain English | `CSS` `Design Systems` |
-| [**SantyCharts**](https://github.com/ChintuSanty/santycharts) | 📊 Lightweight TypeScript chart library | `TypeScript` `Data Viz` |
-| [**UNO No Mercy**](https://github.com/ChintuSanty/uno) | 🃏 Multiplayer web game with real-time gameplay | `TypeScript` `WebSockets` |
-| [**ReactPlugin**](https://github.com/ChintuSanty/reactPlugin) | 🔌 Reusable React plugin architecture | `React` `TypeScript` |
-| [**Q-Mapbox**](https://github.com/ChintuSanty/q-mapbox) | 🗺️ Interactive mapping components | `JavaScript` `Mapbox` |
+| ◈ PROJECT | DESCRIPTION | STACK |
+|:---:|:---|:---:|
+| [**◈ ATSCT**](https://github.com/ChintuSanty/ATSCT) | 🤖 AI-powered Applicant Tracking System with intelligent resume parsing | `AI` `Python` |
+| [**◈ SantyCSS**](https://github.com/ChintuSanty/santyCSS) | 🎨 Utility CSS framework that reads like plain English | `CSS` `Design Systems` |
+| [**◈ SantyCharts**](https://github.com/ChintuSanty/santycharts) | 📊 Lightweight TypeScript chart library | `TypeScript` `Data Viz` |
+| [**◈ UNO No Mercy**](https://github.com/ChintuSanty/uno) | 🃏 Multiplayer web game with real-time gameplay | `TypeScript` `WebSockets` |
+| [**◈ ReactPlugin**](https://github.com/ChintuSanty/reactPlugin) | 🔌 Reusable React plugin architecture | `React` `TypeScript` |
+| [**◈ Q-Mapbox**](https://github.com/ChintuSanty/q-mapbox) | 🗺️ Interactive mapping components | `JavaScript` `Mapbox` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> SYSTEM METRICS`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChintuSanty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintuSanty&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChintuSanty&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9&ring_color=7928ca"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintuSanty&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ChintuSanty&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=0d1117" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ChintuSanty/ChintuSanty/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChintuSanty&theme=synthwave&hide_border=true&background=0d1117&stroke=00fff7&ring=7928ca&fire=ff0080&currStreakLabel=00fff7&sideLabels=00fff7&dates=c9d1d9)](https://github.com/ChintuSanty)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## `> NEURAL ACTIVITY`
 
-```text
-🤖 AI Engineering          ████████████░░░░░░   60%
-🖥️ Frontend Architecture   ████████████████░░   80%
-☁️ Cloud & Data (AWS/DBX)  ████████████░░░░░░   60%
-🎨 UI/UX Systems           ██████████████████   90%
-📦 Open Source             █████████░░░░░░░░░   45%
+<div align="center">
+
+![Snake animation](https://github.com/ChintuSanty/ChintuSanty/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## `> FOCUS.EXE`
+
+```
+◈ AI Engineering       ████████████░░░░░░  60% ████████████████░░
+◈ Frontend Architecture ████████████████░░  80%
+◈ Cloud & Data (DBX)   ████████████░░░░░░  60%
+◈ UI/UX Systems        ██████████████████  90%
+◈ Open Source          █████████░░░░░░░░░  45%
 ```
 
 ---
 
-## 🤝 Let's Connect
+## `> ESTABLISH CONNECTION`
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/santy.in-000?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://santy.in)
-[![Email](https://img.shields.io/badge/hello%40santy.in-000?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:hello@santy.in)
-[![GitHub](https://img.shields.io/badge/ChintuSanty-000?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ChintuSanty)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-santy.in-00fff7?style=for-the-badge&labelColor=0d1117)](https://santy.in)
+[![Email](https://img.shields.io/badge/◈_EMAIL-hello@santy.in-ff0080?style=for-the-badge&labelColor=0d1117)](mailto:hello@santy.in)
 
-*Open to: AI Engineering roles · Frontend Architecture · UI Platform · Consulting*
+**Open to:** `AI Engineering` · `Frontend Architecture` · `UI Platform` · `Consulting`
 
 </div>
+
+---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:16213e,100:0d0d0d&height=120&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:00fff7&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>div>
