@@ -128,7 +128,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/ChintuSanty/ChintuSanty/blob/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChintuSanty&bg_color=0d1117&color=00fff7&line=7928ca&point=ff0080&area=true&hide_border=true)](https://github.com/ChintuSanty)
 
 </div>
 
@@ -137,11 +137,11 @@
 ## `> FOCUS.EXE`
 
 ```
-◈ AI Engineering       ████████████░░░░░░  60% ████████████████░░
+◈ AI Engineering        ████████████░░░░░░  60%
 ◈ Frontend Architecture ████████████████░░  80%
-◈ Cloud & Data (DBX)   ████████████░░░░░░  60%
-◈ UI/UX Systems        ██████████████████  90%
-◈ Open Source          █████████░░░░░░░░░  45%
+◈ Cloud & Data (DBX)    ████████████░░░░░░  60%
+◈ UI/UX Systems         ██████████████████  90%
+◈ Open Source           █████████░░░░░░░░░  45%
 ```
 
 ---
@@ -161,4 +161,4 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:00fff7&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>div>
+</div>
